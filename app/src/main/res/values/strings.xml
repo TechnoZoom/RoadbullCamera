@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RoadbullCamera</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture_photo">Capture</string>
+    <string name="camera_storage">Camera and Storage</string>
+    <string name="permisssion_request_camera">Camera and storage permissions are mandatory</string>
+    <string name="permission_settings">Please enable %s permissions to proceed.</string>
+    <string name="give_permission">Give Permission</string>
+    <string name="image_not_captured">Some problem capturing image</string>
+</resources>
+
+
